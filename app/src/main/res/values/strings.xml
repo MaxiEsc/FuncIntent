@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UsoIntent</string>
+    <string name="next">Siguiente</string>
+    <string name="back">Atras</string>
+    <string name="priActivity">Primer Activity</string>
+    <string name="segActivity">Segundo Activity</string>
+</resources>
